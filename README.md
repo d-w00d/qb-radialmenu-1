@@ -4,6 +4,8 @@ NoPixel Inspired Radial Menu (qb-radialmenu)
 ## Depency
 ### QBCORE
 
+Original: https://github.com/KevinGirardx/qb-radialmenu
+
 -
 ![image](https://cdn.discordapp.com/attachments/965647932097458236/1028477402348793936/unknown.png)
 -
